@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952226382072",
+    "project_id": "flash-chat-27044",
+    "storage_bucket": "flash-chat-27044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952226382072:android:505f88ef8e6f2df801bb0d",
+        "android_client_info": {
+          "package_name": "com.RubiconSurge.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADfebsftrOneb534AAbdC4V9FKybVFCtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
